@@ -5,13 +5,15 @@ Ohjelmoinnin perusteiden harjoitus 5
 
 Täydennä tähän:
 
-- Nimi
-- Ryhmä
+- Raimo Vanha-Similä
+- INTKM26A2
 
 ## Projektin kuvaus
 
-Kirjoita tähän projektin kuvaus.
+ohjelmoidaan focaria ajamaan halutulla tavalla.
 
 ## Käyttöohje
+säätelemällä moottorin pyörimisnopeuksia ja moottorin pyörintäsuuntia saadaan focar kääntymään halutulla tavalla.
 
-Kirjoita tähän käyttöohjeet.
+pyörintäsuunnilla saadaan focar liikkumaan haluttuun suuntaan.
+
